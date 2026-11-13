@@ -1,12 +1,18 @@
-Hallo, I'm Vansh! 👋. I am currently pursuing my Master's In Applied Computer Science at SRH Hochschule Heidelberg
+Hi, I'm Vansh 👋
 
-🔭 I'm currently working on Web Development and UI/UX Designing.
+I'm a full-stack and AI engineer in Heidelberg, Germany. I build web products with TypeScript and React, and these days I spend most of my time making LLMs behave in production.
 
-👯 I’m available to collaborate on any project with Reactjs,Javascript and TypeScript.
+How I like to work
 
-💬 Ask me about React or any web and UI/UX development related stuff . 📫 How to reach me: LinkedIn - @https://www.linkedin.com/in/vansh-vansh-749a9a235/ 
-@vanshchoudhary5c@gmail.com
+🎯 Start from the person who will use it, not from the tech
+🚀 Ship a small version first, then make it better
+🧪 Don't trust it until it's tested and measured, AI included
+🔍 When something breaks, find the real cause, not just the symptom
 
-😄 Pronouns: He/His.
+What I'm into right now: AI agents, RAG and making AI output something you can actually check.
 
-⚡ Fun fact: I'm a gamer.🎮.
+My everyday stack: TypeScript · React · Next.js · Node.js · Python · FastAPI · PostgreSQL · Docker · Kubernetes
+
+🌐 vanshdev.de · 💼 LinkedIn · 📫 iamvansh2903@gmail.com
+
+⚡ When I'm not coding, I'm probably gaming 🎮
